@@ -19,12 +19,12 @@
 # param var Number of tool-matrix variations for a single problem type
 # data.matrix Matrix containing all parameters for the generated problem instance
 
-# m	  j	          t	    Job-Tool-Matrix Density
-# 2	  {5,10}	    10	  {sparse, dense}
-# 2	  {5,10,15}	  15	  {sparse, dense}
-# 3	  {15,25}	    15	  {sparse, dense}
-# 4	  {25}	      15	  {sparse, dense}
-# 4	  {25}	      20	  {sparse, dense}
+# m   j	          t     Job-Tool-Matrix Density
+# 2	  {5,10}      10    {sparse, dense}
+# 2	  {5,10,15}   15    {sparse, dense}
+# 3	  {15,25}     15    {sparse, dense}
+# 4	  {25}        15    {sparse, dense}
+# 4	  {25}        20    {sparse, dense}
 
 # =======================================
 
